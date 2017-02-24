@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Is%20this%20dumbshit%20any%20near%20from%20being%20real%3F-absolutely-green.svg?style=flat-square)
+![](https://img.shields.io/badge/Currently%20in%3F-beta%20minus%20a%20hundred-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/Really%3F%20Is%20that%20even%20a%20real%20value%3F-yes-brightgreen.svg?style=flat-square)
+
 # TeamSim
 It's time to do some serious shit about forming fútbol-5 teams (or any other sport).
 
