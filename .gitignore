@@ -88,4 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# TeamSim stuff
 teamsim/teamsim/settings/local.py
+teamsim.db

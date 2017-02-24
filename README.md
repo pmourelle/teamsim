@@ -1,5 +1,5 @@
-# teamsim
-It's time to do some serious shit about forming fútbol-5 teams.
+# TeamSim
+It's time to do some serious shit about forming fútbol-5 teams (or any other sport).
 
 
 ## Idea
@@ -22,4 +22,8 @@ There're plenty of inspiration on tumblr and many other sites to how app could l
 For backend I'm resting my nuts over django and its super-ergo-awesome admin. Same for auth. Ergo, oauth would be better?
 
 See you around.
+
 Ergo.
+
+### Note
+This is a remake of a previous old work that never saw the light called 'TeamSim and nazis on sharks'. Hopefully, this version will be better.
